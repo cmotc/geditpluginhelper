@@ -1,6 +1,6 @@
 #! /bin/bash
 HELP='
-A program which generates a skeleton gedit plugin project.
+A script which generates a skeleton gedit plugin project.
 
 usage: Gedit Plugin Helper can be used interactively, by passing parameters, or
 by passing some parameters and interactively entering other parameters.
@@ -10,6 +10,9 @@ by passing some parameters and interactively entering other parameters.
 	--copy|c Additional copyright info for plugin file (Optional)
 	--site|s Web site for the plugin/author
 	--help|h display this message
+	--p AppActivatable Plugin
+	--w WindowActivatable Plugin
+	--v ViewActivatable Plugin
 '
 while getopts name:n:desc:d:auth:a:copy:c:site:s:help:h:pwv params
 do; case "${params}"
@@ -40,6 +43,18 @@ if [ -n "$COPYRIGHT" ]; then
 	read -p COPYRIGHT "Additional license info in Plugin file?"
 if [ -n "$WEBSITE" ]; then
 	read -p WEBSITE "What is the website for this plugin?"
+fi
+if [-n "$APPACT"]; then
+if [-n "$WINACT"]; then
+if [-n "$VIEACT"]; then
+        read -p "What kind of plugin p(AppActivatable)w(WindowActivatable)v(ViewActivatable)" ANSWER
+        case $ANSWER in
+        [p]* ) APPACT="true"
+        [w]* ) WINACT="true"
+        [v]* ) VIEACT="true"
+        *) echo "What kind of plugin p(AppActivatable)w(WindowActivatable)v(ViewActivatable)"
+fi
+fi
 fi
 echo "finished interactive mode"
 mkdir -p $NAME
