@@ -47,12 +47,16 @@ fi
 if [-n "$APPACT"]; then
 if [-n "$WINACT"]; then
 if [-n "$VIEACT"]; then
+while true
+    do
         read -p "What kind of plugin p(AppActivatable)w(WindowActivatable)v(ViewActivatable)" ANSWER
         case $ANSWER in
         [p]* ) APPACT="true"
         [w]* ) WINACT="true"
         [v]* ) VIEACT="true"
         *) echo "What kind of plugin p(AppActivatable)w(WindowActivatable)v(ViewActivatable)"
+	esac
+    done
 fi
 fi
 fi
