@@ -4,24 +4,25 @@ A script which generates a skeleton gedit plugin project.
 
 usage: Gedit Plugin Helper can be used interactively, by passing parameters, or
 by passing some parameters and interactively entering other parameters.
-	--name|n The name of the project. Module name will be module_$NAME
-	--desc|d A brief description of the project
-	--auth|a The name of the project creator
-	--copy|c Additional copyright info for plugin file (Optional)
-	--site|s Web site for the plugin/author
-	--help|h display this message
+	--n The name of the project. Module name will be module_$NAME
+	--d A brief description of the project
+	--a The name of the project creator
+	--c Additional copyright info for plugin file (Optional)
+	--s Web site for the plugin/author
+	--h display this message
 	--p AppActivatable Plugin
 	--w WindowActivatable Plugin
 	--v ViewActivatable Plugin
 '
-while getopts name:n:desc:d:auth:a:copy:c:site:s:help:h:pwv params
-do; case "${params}"
+while getopts n:d:a:c:s:h:pwv params
+do
+	case "${params}"
 	in
-		name|n) NAME=${OPTARG}
-		desc|d) DESCRIPTION=${OPTARG}
-		auth|a) AUTHORS=${OPTARG}
-		copy|c) COPYRIGHT=${OPTARG}
-		site|s) WEBSITE=${OPTARG}
+		n) NAME=${OPTARG}
+		d) DESCRIPTION=${OPTARG}
+		a) AUTHORS=${OPTARG}
+		c) COPYRIGHT=${OPTARG}
+		s) WEBSITE=${OPTARG}
 		p) APPACT="true"
 		w) WINACT="true"
 		v) VIEACT="true"
