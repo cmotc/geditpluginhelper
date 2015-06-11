@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-template>
 	<project-wizard>
-		<name>GTK+ (simple)</name>
-		<name xml:lang="ast">GTK+ (simple)</name>
-		<name xml:lang="bg">GTK+ (обикновен)</name>
-		<name xml:lang="ca">GTK+ (senzill)</name>
-		<name xml:lang="ca@valencia">GTK+ (senzill)</name>
-		<name xml:lang="cs">GTK+ (jednoduchý)</name>
-		<name xml:lang="da">GTK+ (simpel)</name>
-		<name xml:lang="de">GTK+ (einfach)</name>
-		<name xml:lang="el">GTK+ (απλό)</name>
-		<name xml:lang="en_CA">GTK+ (simple)</name>
-		<name xml:lang="en_GB">GTK+ (simple)</name>
-		<name xml:lang="es">GTK+ (simple)</name>
-		<name xml:lang="fr">GTK+ (simple)</name>
-		<name xml:lang="gl">GTK+ (sinxelo)</name>
+		<name>SDL2 (simple)</name>
+		<name xml:lang="ast">SDL2 (simple)</name>
+		<name xml:lang="bg">SDL2 (обикновен)</name>
+		<name xml:lang="ca">SDL2 (senzill)</name>
+		<name xml:lang="ca@valencia">SDL2 (senzill)</name>
+		<name xml:lang="cs">SDL2 (jednoduchý)</name>
+		<name xml:lang="da">SDL2 (simpel)</name>
+		<name xml:lang="de">SDL2 (einfach)</name>
+		<name xml:lang="el">SDL2 (απλό)</name>
+		<name xml:lang="en_CA">SDL2 (simple)</name>
+		<name xml:lang="en_GB">SDL2 (simple)</name>
+		<name xml:lang="es">SDL2 (simple)</name>
+		<name xml:lang="fr">SDL2 (simple)</name>
+		<name xml:lang="gl">SDL2 (sinxelo)</name>
 		<name xml:lang="hi">GTK सरल</name>
-		<name xml:lang="hu">GTK+ (egyszerű)</name>
-		<name xml:lang="id">GTK+ (sederhana)</name>
-		<name xml:lang="it">GTK+ (semplice)</name>
-		<name xml:lang="ja">GTK+ (シンプル)</name>
-		<name xml:lang="km">GTK+ (ធម្មតា)</name>
-		<name xml:lang="ko">GTK+ (단순)</name>
-		<name xml:lang="lt">GTK+ (paprasta)</name>
-		<name xml:lang="lv">GTK+ (vienkāršs)</name>
-		<name xml:lang="nb">GTK+ (enkel)</name>
-		<name xml:lang="pl">GTK+ (prosty)</name>
-		<name xml:lang="pt">GTK+ (simples)</name>
-		<name xml:lang="pt_BR">GTK+ (simples)</name>
-		<name xml:lang="ro">GTK+ (simplu)</name>
-		<name xml:lang="ru">GTK+ (простой)</name>
-		<name xml:lang="sk">GTK+ (jednoduchý)</name>
-		<name xml:lang="sl">GTK+ (enostavno)</name>
+		<name xml:lang="hu">SDL2 (egyszerű)</name>
+		<name xml:lang="id">SDL2 (sederhana)</name>
+		<name xml:lang="it">SDL2 (semplice)</name>
+		<name xml:lang="ja">SDL2 (シンプル)</name>
+		<name xml:lang="km">SDL2 (ធម្មតា)</name>
+		<name xml:lang="ko">SDL2 (단순)</name>
+		<name xml:lang="lt">SDL2 (paprasta)</name>
+		<name xml:lang="lv">SDL2 (vienkāršs)</name>
+		<name xml:lang="nb">SDL2 (enkel)</name>
+		<name xml:lang="pl">SDL2 (prosty)</name>
+		<name xml:lang="pt">SDL2 (simples)</name>
+		<name xml:lang="pt_BR">SDL2 (simples)</name>
+		<name xml:lang="ro">SDL2 (simplu)</name>
+		<name xml:lang="ru">SDL2 (простой)</name>
+		<name xml:lang="sk">SDL2 (jednoduchý)</name>
+		<name xml:lang="sl">SDL2 (enostavno)</name>
 		<name xml:lang="sr">ГТК+ (једноставно)</name>
-		<name xml:lang="sr@latin">GTK+ (jednostavno)</name>
-		<name xml:lang="sv">GTK+ (enkel)</name>
+		<name xml:lang="sr@latin">SDL2 (jednostavno)</name>
+		<name xml:lang="sv">SDL2 (enkel)</name>
 		<name xml:lang="te">GTK + (సరళమైన)</name>
-		<name xml:lang="th">GTK+ (อย่างง่าย)</name>
-		<name xml:lang="ug">GTK+ (ئاددىي)</name>
-		<name xml:lang="zh_CN">GTK+ (简单)</name>
-		<name xml:lang="zh_HK">GTK+ (簡易)</name>
-		<name xml:lang="zh_TW">GTK+ (簡易)</name>
-		<description>Simple GTK+ project</description>
+		<name xml:lang="th">SDL2 (อย่างง่าย)</name>
+		<name xml:lang="ug">SDL2 (ئاددىي)</name>
+		<name xml:lang="zh_CN">SDL2 (简单)</name>
+		<name xml:lang="zh_HK">SDL2 (簡易)</name>
+		<name xml:lang="zh_TW">SDL2 (簡易)</name>
+		<description>Simple SDL2 project</description>
 		<description xml:lang="ar">مشروع جتك+ عام</description>
-		<description xml:lang="ast">Proyeutu GTK+ cenciellu</description>
-		<description xml:lang="bg">Обикновен проект на GTK+</description>
-		<description xml:lang="ca">Un projecte GTK+ senzill</description>
-		<description xml:lang="ca@valencia">Un projecte GTK+ senzill</description>
+		<description xml:lang="ast">Proyeutu SDL2 cenciellu</description>
+		<description xml:lang="bg">Обикновен проект на SDL2</description>
+		<description xml:lang="ca">Un projecte SDL2 senzill</description>
+		<description xml:lang="ca@valencia">Un projecte SDL2 senzill</description>
 		<description xml:lang="cs">Jednoduchý projekt pod Gtk+</description>
-		<description xml:lang="da">Et simpelt GTK+-projekt</description>
-		<description xml:lang="de">Einfaches GTK+ Projekt</description>
-		<description xml:lang="el">Απλό έργο GTK+</description>
-		<description xml:lang="en_CA">Simple GTK+ project</description>
-		<description xml:lang="en_GB">Simple GTK+ project</description>
-		<description xml:lang="es">Proyecto GTK+ sencillo</description>
-		<description xml:lang="fr">Projet GTK+ simple</description>
-		<description xml:lang="gl">Un proxecto GTK+ sinxelo</description>
-		<description xml:lang="hu">Egyszerű GTK+ projekt</description>
-		<description xml:lang="id">Proyek sederhana GTK+</description>
-		<description xml:lang="it">Progetto GTK+ semplice</description>
-		<description xml:lang="ja">簡単な GTK+ のプロジェクトです</description>
-		<description xml:lang="km">គម្រោង GTK+ ធម្មតា</description>
-		<description xml:lang="ko">단순 GTK+ 프로젝트</description>
-		<description xml:lang="lt">Paprastas GTK+ projektas</description>
-		<description xml:lang="lv">Vienkāršs GTK+ projekts</description>
-		<description xml:lang="nb">Enkelt GTK+-prosjekt</description>
-		<description xml:lang="pl">Prosty projekt biblioteki GTK+</description>
-		<description xml:lang="pt">Projeto GTK+ simples</description>
-		<description xml:lang="pt_BR">Um projeto simples em GTK+</description>
-		<description xml:lang="ro">Proiect GTK+ simplu</description>
-		<description xml:lang="ru">Простой проект GTK+</description>
-		<description xml:lang="sk">Jednoduchý projekt GTK+</description>
-		<description xml:lang="sl">Enostavni projekt GTK+</description>
+		<description xml:lang="da">Et simpelt SDL2-projekt</description>
+		<description xml:lang="de">Einfaches SDL2 Projekt</description>
+		<description xml:lang="el">Απλό έργο SDL2</description>
+		<description xml:lang="en_CA">Simple SDL2 project</description>
+		<description xml:lang="en_GB">Simple SDL2 project</description>
+		<description xml:lang="es">Proyecto SDL2 sencillo</description>
+		<description xml:lang="fr">Projet SDL2 simple</description>
+		<description xml:lang="gl">Un proxecto SDL2 sinxelo</description>
+		<description xml:lang="hu">Egyszerű SDL2 projekt</description>
+		<description xml:lang="id">Proyek sederhana SDL2</description>
+		<description xml:lang="it">Progetto SDL2 semplice</description>
+		<description xml:lang="ja">簡単な SDL2 のプロジェクトです</description>
+		<description xml:lang="km">គម្រោង SDL2 ធម្មតា</description>
+		<description xml:lang="ko">단순 SDL2 프로젝트</description>
+		<description xml:lang="lt">Paprastas SDL2 projektas</description>
+		<description xml:lang="lv">Vienkāršs SDL2 projekts</description>
+		<description xml:lang="nb">Enkelt SDL2-prosjekt</description>
+		<description xml:lang="pl">Prosty projekt biblioteki SDL2</description>
+		<description xml:lang="pt">Projeto SDL2 simples</description>
+		<description xml:lang="pt_BR">Um projeto simples em SDL2</description>
+		<description xml:lang="ro">Proiect SDL2 simplu</description>
+		<description xml:lang="ru">Простой проект SDL2</description>
+		<description xml:lang="sk">Jednoduchý projekt SDL2</description>
+		<description xml:lang="sl">Enostavni projekt SDL2</description>
 		<description xml:lang="sr">Једноставан ГТК+ пројекат</description>
-		<description xml:lang="sr@latin">Jednostavan GTK+ projekat</description>
-		<description xml:lang="sv">Enkelt GTK+-projekt</description>
-		<description xml:lang="te">సాధారణ GTK+ ప్రాజెక్టు</description>
-		<description xml:lang="th">โครงการ GTK+ อย่างง่าย</description>
-		<description xml:lang="ug">ئاددىي GTK+ قۇرۇلۇشى</description>
-		<description xml:lang="zh_CN">简单 GTK+ 项目</description>
-		<description xml:lang="zh_HK">簡易 GTK+ 專案</description>
-		<description xml:lang="zh_TW">簡易 GTK+ 專案</description>
+		<description xml:lang="sr@latin">Jednostavan SDL2 projekat</description>
+		<description xml:lang="sv">Enkelt SDL2-projekt</description>
+		<description xml:lang="te">సాధారణ SDL2 ప్రాజెక్టు</description>
+		<description xml:lang="th">โครงการ SDL2 อย่างง่าย</description>
+		<description xml:lang="ug">ئاددىي SDL2 قۇرۇلۇشى</description>
+		<description xml:lang="zh_CN">简单 SDL2 项目</description>
+		<description xml:lang="zh_HK">簡易 SDL2 專案</description>
+		<description xml:lang="zh_TW">簡易 SDL2 專案</description>
 		<icon>gtk-logo.png</icon>
 		<category>Vala</category>
 		<order>1</order>
@@ -88,431 +88,431 @@
 		<required-program>autoconf</required-program>
 		<required-program>make</required-program>
 		<required-program>valac</required-program>		
-		<required-package>gtk+-3.0</required-package>
+		<required-package>libsdl, libsdlimage,</required-package>
 	</project-wizard>
 	
 	<page name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Author:" description=""></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description=""></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:"></property>
 	</page>
 	<page xml:lang="ar" name="basic" label="المعلومات الأساسية" description="معلومات المشروع العامة">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="اسم المشروع:" description="اسم المشروع" xml:lang="ar"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="اسم المشروع:" description="اسم المشروع" xml:lang="ar"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="المؤلف:" description="" xml:lang="ar"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="عنوان البريد الإلكتروني:" description="" xml:lang="ar"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="النسخة:" xml:lang="ar"></property>
 	</page>
 	<page xml:lang="ast" name="basic" label="Información básica" description="Información xeneral del proyeutu">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nome del proyeutu:" description="nome del proyeutu" xml:lang="ast"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nome del proyeutu:" description="nome del proyeutu" xml:lang="ast"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="ast"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Direición de corréu-e:" description="" xml:lang="ast"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versión:" xml:lang="ast"></property>
 	</page>
 	<page xml:lang="az" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Layihə Adı:" description="project name" xml:lang="az"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Layihə Adı:" description="project name" xml:lang="az"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Müəllif:" description="" xml:lang="az"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="az"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Buraxılış:" xml:lang="az"></property>
 	</page>
 	<page xml:lang="be@latin" name="basic" label="Prostaja infarmacyja" description="Ahulnaja infarmacyja ab prajekcie">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nazva prajektu:" description="nazva prajektu" xml:lang="be@latin"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nazva prajektu:" description="nazva prajektu" xml:lang="be@latin"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Aŭtar:" description="" xml:lang="be@latin"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adras email:" description="" xml:lang="be@latin"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versija:" xml:lang="be@latin"></property>
 	</page>
 	<page xml:lang="bg" name="basic" label="Основна информация" description="Обща информация за проекта">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Име на проект:" description="име на проект" xml:lang="bg"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Име на проект:" description="име на проект" xml:lang="bg"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Автор:" description="" xml:lang="bg"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Е-поща:" description="" xml:lang="bg"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Версия:" xml:lang="bg"></property>
 	</page>
 	<page xml:lang="ca" name="basic" label="Informació bàsica" description="Informació general del projecte">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nom del projecte:" description="nom del projecte" xml:lang="ca"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nom del projecte:" description="nom del projecte" xml:lang="ca"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="ca"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adreça electrònica:" description="" xml:lang="ca"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versió:" xml:lang="ca"></property>
 	</page>
 	<page xml:lang="ca@valencia" name="basic" label="Informació bàsica" description="Informació general del projecte">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nom del projecte:" description="nom del projecte" xml:lang="ca@valencia"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nom del projecte:" description="nom del projecte" xml:lang="ca@valencia"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="ca@valencia"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adreça electrònica:" description="" xml:lang="ca@valencia"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versió:" xml:lang="ca@valencia"></property>
 	</page>
 	<page xml:lang="cs" name="basic" label="Základní informace" description="Obecné informace o projektu">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Název projektu:" description="název projektu" xml:lang="cs"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Název projektu:" description="název projektu" xml:lang="cs"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="cs"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-mailová adresa:" description="" xml:lang="cs"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Verze:" xml:lang="cs"></property>
 	</page>
 	<page xml:lang="da" name="basic" label="Basal information" description="Generel projektinformation">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projektnavn:" description="projektnavn" xml:lang="da"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projektnavn:" description="projektnavn" xml:lang="da"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Forfatter:" description="" xml:lang="da"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-post-adresse:" description="" xml:lang="da"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:" xml:lang="da"></property>
 	</page>
 	<page xml:lang="de" name="basic" label="Grundlegende Informationen" description="Allgemeine Informationen zum Projekt">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projektname:" description="Projektname" xml:lang="de"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projektname:" description="Projektname" xml:lang="de"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="de"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-Mail-Adresse:" description="" xml:lang="de"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:" xml:lang="de"></property>
 	</page>
 	<page xml:lang="dz" name="basic" label="གཞི་རིམ་བརྡ་དོན།" description="ཡོངས་ཁྱབ་ལས་འགུལ་བརྡ་དོན།">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="ལས་འགུལ་མིང་།" description="ལས་འགུལ་མིང་" xml:lang="dz"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="ལས་འགུལ་མིང་།" description="ལས་འགུལ་མིང་" xml:lang="dz"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="རྩོམ་པ་པོ།" description="" xml:lang="dz"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="གློག་འཕྲིན་ཁ་བྱང་།" description="" xml:lang="dz"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="ཐོན་རིམ།" xml:lang="dz"></property>
 	</page>
 	<page xml:lang="el" name="basic" label="Βασικές πληροφορίες" description="Γενικές πληροφορίες έργου">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Όνομα έργου:" description="όνομα έργου" xml:lang="el"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Όνομα έργου:" description="όνομα έργου" xml:lang="el"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Συγγραφέας:" description="" xml:lang="el"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Διεύθυνση ηλεκτρονικής αλληλογγραφίας:" description="" xml:lang="el"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Έκδοση:" xml:lang="el"></property>
 	</page>
 	<page xml:lang="en@shaw" name="basic" label="𐑚𐑱𐑕𐑦𐑒 𐑦𐑯𐑓𐑼𐑥𐑱𐑖𐑩𐑯" description="𐑡𐑧𐑯𐑼𐑩𐑤 𐑐𐑮𐑩𐑡𐑧𐑒𐑑 𐑦𐑯𐑓𐑼𐑥𐑱𐑖𐑩𐑯">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="𐑐𐑮𐑩𐑡𐑧𐑒𐑑 𐑯𐑱𐑥:" description="𐑐𐑮𐑩𐑡𐑧𐑒𐑑 𐑯𐑱𐑥" xml:lang="en@shaw"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="𐑐𐑮𐑩𐑡𐑧𐑒𐑑 𐑯𐑱𐑥:" description="𐑐𐑮𐑩𐑡𐑧𐑒𐑑 𐑯𐑱𐑥" xml:lang="en@shaw"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="𐑷𐑔𐑼:" description="" xml:lang="en@shaw"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="𐑰𐑥𐑱𐑤 𐑩𐑛𐑮𐑧𐑕:" description="" xml:lang="en@shaw"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="𐑝𐑻𐑠𐑩𐑯:" xml:lang="en@shaw"></property>
 	</page>
 	<page xml:lang="en_CA" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="en_CA"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="en_CA"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Author:" description="" xml:lang="en_CA"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="en_CA"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:" xml:lang="en_CA"></property>
 	</page>
 	<page xml:lang="en_GB" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="en_GB"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="en_GB"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Author:" description="" xml:lang="en_GB"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-mail address:" description="" xml:lang="en_GB"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:" xml:lang="en_GB"></property>
 	</page>
 	<page xml:lang="eo" name="basic" label="Baza informo" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projektnomo:" description="projektnomo" xml:lang="eo"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projektnomo:" description="projektnomo" xml:lang="eo"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Aŭtoro:" description="" xml:lang="eo"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Retpoŝtadreso:" description="" xml:lang="eo"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versio:" xml:lang="eo"></property>
 	</page>
 	<page xml:lang="es" name="basic" label="Información básica" description="Información general del proyecto">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nombre del proyecto:" description="nombre del proyecto" xml:lang="es"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nombre del proyecto:" description="nombre del proyecto" xml:lang="es"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="es"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Dirección de correo-e:" description="" xml:lang="es"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versión:" xml:lang="es"></property>
 	</page>
 	<page xml:lang="eu" name="basic" label="Oinarrizko informazioa" description="Proiektuaren informazio orokorra">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Proiektuaren izena:" description="proiektuaren izena" xml:lang="eu"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Proiektuaren izena:" description="proiektuaren izena" xml:lang="eu"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Egilea:" description="" xml:lang="eu"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Helbide elektronikoa:" description="" xml:lang="eu"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Bertsioa:" xml:lang="eu"></property>
 	</page>
 	<page xml:lang="fi" name="basic" label="Perustiedot" description="Projektin perustiedot">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projektin nimi:" description="projektin nimi" xml:lang="fi"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projektin nimi:" description="projektin nimi" xml:lang="fi"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Tekijä:" description="" xml:lang="fi"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Sähköpostiosoite:" description="" xml:lang="fi"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versio:" xml:lang="fi"></property>
 	</page>
 	<page xml:lang="fr" name="basic" label="Informations générales" description="Informations générales du projet">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nom du projet :" description="nom du projet" xml:lang="fr"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nom du projet :" description="nom du projet" xml:lang="fr"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Auteur :" description="" xml:lang="fr"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adresse électronique :" description="" xml:lang="fr"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version :" xml:lang="fr"></property>
 	</page>
 	<page xml:lang="ga" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Ainm Tionscadail:" description="ainm tionscadail" xml:lang="ga"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Ainm Tionscadail:" description="ainm tionscadail" xml:lang="ga"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Údar:" description="" xml:lang="ga"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="ga"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:" xml:lang="ga"></property>
 	</page>
 	<page xml:lang="gl" name="basic" label="Información básica" description="Información xeral do proxecto">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nome do proxecto:" description="nome do proxecto" xml:lang="gl"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nome do proxecto:" description="nome do proxecto" xml:lang="gl"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="gl"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Enderezo de correo electrónico:" description="" xml:lang="gl"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versión:" xml:lang="gl"></property>
 	</page>
 	<page xml:lang="gu" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="પ્રોજેક્ટ નામ:" description="project name" xml:lang="gu"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="પ્રોજેક્ટ નામ:" description="project name" xml:lang="gu"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="લેખક:" description="" xml:lang="gu"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="gu"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="આવૃત્તિ:" xml:lang="gu"></property>
 	</page>
 	<page xml:lang="he" name="basic" label="מידע בסיסי" description="מידע כללי על הפרויקט">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="שם פרויקט:" description="שם פרויקט" xml:lang="he"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="שם פרויקט:" description="שם פרויקט" xml:lang="he"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="יוצר:" description="" xml:lang="he"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="כתובת דוא&quot;ל:" description="" xml:lang="he"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="גירסה:" xml:lang="he"></property>
 	</page>
 	<page xml:lang="hi" name="basic" label="बेसिक सूचना" description="सामान्य प्रोजेक्ट सूचना">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="परियोजना नाम:" description="प्रोजेक्ट नाम" xml:lang="hi"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="परियोजना नाम:" description="प्रोजेक्ट नाम" xml:lang="hi"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="लेखकः" description="" xml:lang="hi"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ई-मेल पताः" description="" xml:lang="hi"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="संस्करणः" xml:lang="hi"></property>
 	</page>
 	<page xml:lang="hr" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Ime projekta:" description="project name" xml:lang="hr"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Ime projekta:" description="project name" xml:lang="hr"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="hr"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="hr"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Inačica:" xml:lang="hr"></property>
 	</page>
 	<page xml:lang="hu" name="basic" label="Alapvető információk" description="Általános projektinformációk">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projektnév:" description="projekt neve" xml:lang="hu"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projektnév:" description="projekt neve" xml:lang="hu"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Szerző:" description="" xml:lang="hu"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-mail cím:" description="" xml:lang="hu"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Verzió:" xml:lang="hu"></property>
 	</page>
 	<page xml:lang="hy" name="basic" label="Հիմնական տեղեկություն" description="Ինֆորմացիա գլխավոր նախագծի մասին">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Նախագծի Անուն․" description="նախագծի անուն" xml:lang="hy"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Նախագծի Անուն․" description="նախագծի անուն" xml:lang="hy"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Հեղինակ․" description="" xml:lang="hy"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="էլ․ փոստի հասցե․" description="" xml:lang="hy"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Տարբերակ․" xml:lang="hy"></property>
 	</page>
 	<page xml:lang="id" name="basic" label="Informasi dasar" description="Informasi Umum Projek">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nama Projek:" description="nama projek" xml:lang="id"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nama Projek:" description="nama projek" xml:lang="id"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Penulis:" description="" xml:lang="id"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Alamat surel:" description="" xml:lang="id"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versi:" xml:lang="id"></property>
 	</page>
 	<page xml:lang="it" name="basic" label="Informazioni di base" description="Informazioni generali sul progetto">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nome del progetto:" description="nome del progetto" xml:lang="it"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nome del progetto:" description="nome del progetto" xml:lang="it"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autore:" description="" xml:lang="it"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Indirizzo email:" description="" xml:lang="it"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versione:" xml:lang="it"></property>
 	</page>
 	<page xml:lang="ja" name="basic" label="基本的な情報" description="プロジェクト全般の情報">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="プロジェクト名:" description="プロジェクトの名前です" xml:lang="ja"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="プロジェクト名:" description="プロジェクトの名前です" xml:lang="ja"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="作者:" description="" xml:lang="ja"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-メールアドレス:" description="" xml:lang="ja"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="バージョン:" xml:lang="ja"></property>
 	</page>
 	<page xml:lang="km" name="basic" label="ព័ត៌មាន​មូលដ្ឋាន" description="ព័ត៌មាន​គម្រោង​ទូទៅ">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="ឈ្មោះ​គម្រោង ៖" description="ឈ្មោះ​គម្រោង" xml:lang="km"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="ឈ្មោះ​គម្រោង ៖" description="ឈ្មោះ​គម្រោង" xml:lang="km"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="អ្នក​និពន្ធ ៖" description="" xml:lang="km"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="អាសយដ្ឋាន​អ៊ីមែល ៖" description="" xml:lang="km"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="កំណែ ៖" xml:lang="km"></property>
 	</page>
 	<page xml:lang="kn" name="basic" label="ಮೂಲಭೂತ ಮಾಹಿತಿ" description="ಸಾಮಾನ್ಯ ಪರಿಯೋಜನೆ ಮಾಹಿತಿ">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="ಪರಿಯೋಜನೆಯ ಹೆಸರು:" description="ಪರಿಯೋಜನೆಯ ಹೆಸರು" xml:lang="kn"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="ಪರಿಯೋಜನೆಯ ಹೆಸರು:" description="ಪರಿಯೋಜನೆಯ ಹೆಸರು" xml:lang="kn"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="ಲೇಖಕ:" description="" xml:lang="kn"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ಇಮೇಲ್ ವಿಳಾಸ:" description="" xml:lang="kn"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="ಆವೃತ್ತಿ:" xml:lang="kn"></property>
 	</page>
 	<page xml:lang="ko" name="basic" label="기본 정보" description="일반 프로젝트 정보">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="프로젝트 이름:" description="프로젝트 이름" xml:lang="ko"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="프로젝트 이름:" description="프로젝트 이름" xml:lang="ko"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="작성자:" description="" xml:lang="ko"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="전자메일 주소:" description="" xml:lang="ko"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="버전:" xml:lang="ko"></property>
 	</page>
 	<page xml:lang="lt" name="basic" label="Pagrindinė informacija" description="Bendra projekto informacija">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projekto pavadinimas:" description="projekto pavadinimas" xml:lang="lt"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projekto pavadinimas:" description="projekto pavadinimas" xml:lang="lt"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autorius:" description="" xml:lang="lt"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="El. pašto adresas:" description="" xml:lang="lt"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versija:" xml:lang="lt"></property>
 	</page>
 	<page xml:lang="lv" name="basic" label="Pamatinformācija" description="Vispārīga informācija par projektu">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projekta nosaukums:" description="projekta nosaukums" xml:lang="lv"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projekta nosaukums:" description="projekta nosaukums" xml:lang="lv"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autors:" description="" xml:lang="lv"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-pasta adrese:" description="" xml:lang="lv"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versija:" xml:lang="lv"></property>
 	</page>
 	<page xml:lang="mai" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="mai"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="mai"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="लेखक:" description="" xml:lang="mai"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ईमेल पता:" description="" xml:lang="mai"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="संस्करण:" xml:lang="mai"></property>
 	</page>
 	<page xml:lang="mk" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Проект Име:" description="project name" xml:lang="mk"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Проект Име:" description="project name" xml:lang="mk"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Автор:" description="" xml:lang="mk"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="mk"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Верзија:" xml:lang="mk"></property>
 	</page>
 	<page xml:lang="ml" name="basic" label="അടിസ്ഥാന വിവരം" description="പൊതുവായ പദ്ധതി വിവരങ്ങള്‍‍">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="പദ്ധതിയുടെ പേര്:" description="project name" xml:lang="ml"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="പദ്ധതിയുടെ പേര്:" description="project name" xml:lang="ml"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="രചയിതാവ്:" description="" xml:lang="ml"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ഈ മേല്‍വിലാസം:" description="" xml:lang="ml"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="പതിപ്പ്:" xml:lang="ml"></property>
 	</page>
 	<page xml:lang="mr" name="basic" label="मुलभूत माहिती" description="सर्वसाधारन प्रकल्प माहिती">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="प्रकल्प नाव:" description="प्रकल्प नाव" xml:lang="mr"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="प्रकल्प नाव:" description="प्रकल्प नाव" xml:lang="mr"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="लेखक:" description="" xml:lang="mr"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ईमेल पत्ता:" description="" xml:lang="mr"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="आवृत्ती:" xml:lang="mr"></property>
 	</page>
 	<page xml:lang="ms" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nama Projek:" description="project name" xml:lang="ms"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nama Projek:" description="project name" xml:lang="ms"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Pengarang:" description="" xml:lang="ms"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="ms"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versi:" xml:lang="ms"></property>
 	</page>
 	<page xml:lang="nb" name="basic" label="Grunnleggende informasjon" description="Generell informasjon om prosjektet">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Prosjektnavn:" description="Prosjektnavn" xml:lang="nb"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Prosjektnavn:" description="Prosjektnavn" xml:lang="nb"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Forfatter:" description="" xml:lang="nb"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-postadresse:" description="" xml:lang="nb"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versjon:" xml:lang="nb"></property>
 	</page>
 	<page xml:lang="ne" name="basic" label="आधारभूत सूचना" description="साधारण परियोजना सूचना">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="परियोजनाको नाम:" description="परियोजनाको नाम" xml:lang="ne"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="परियोजनाको नाम:" description="परियोजनाको नाम" xml:lang="ne"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="लेखक:" description="" xml:lang="ne"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="इमेल ठेगाना:" description="" xml:lang="ne"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="संस्करण:" xml:lang="ne"></property>
 	</page>
 	<page xml:lang="nl" name="basic" label="Basisinformatie" description="Algemene projectinformatie">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projectnaam:" description="projectnaam" xml:lang="nl"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projectnaam:" description="projectnaam" xml:lang="nl"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Auteur:" description="" xml:lang="nl"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-mailadres:" description="" xml:lang="nl"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versie:" xml:lang="nl"></property>
 	</page>
 	<page xml:lang="oc" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nom del projècte :" description="nom del projècte" xml:lang="oc"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nom del projècte :" description="nom del projècte" xml:lang="oc"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor :" description="" xml:lang="oc"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adreça electronica :" description="" xml:lang="oc"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version :" xml:lang="oc"></property>
 	</page>
 	<page xml:lang="or" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="or"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="or"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="ଲେଖକ:" description="" xml:lang="or"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ଇମେଲ ଠିକଣା:" description="" xml:lang="or"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="ସଂସ୍କରଣ:" xml:lang="or"></property>
 	</page>
 	<page xml:lang="pa" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="ਪ੍ਰੋਜੈਕਟ ਨਾਂ:" description="project name" xml:lang="pa"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="ਪ੍ਰੋਜੈਕਟ ਨਾਂ:" description="project name" xml:lang="pa"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="ਲੇਖਕ:" description="" xml:lang="pa"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="pa"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="ਵਰਜਨ:" xml:lang="pa"></property>
 	</page>
 	<page xml:lang="pl" name="basic" label="Podstawowe informacje" description="Ogólne informacje o projekcie">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nazwa projektu:" description="nazwa projektu" xml:lang="pl"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nazwa projektu:" description="nazwa projektu" xml:lang="pl"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="pl"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adres e-mail:" description="" xml:lang="pl"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Wersja:" xml:lang="pl"></property>
 	</page>
 	<page xml:lang="pt" name="basic" label="Informação basica" description="Informação Geral do Projeto">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nome do Projeto:" description="nome do projeto" xml:lang="pt"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nome do Projeto:" description="nome do projeto" xml:lang="pt"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="pt"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Endereço de email:" description="" xml:lang="pt"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versão:" xml:lang="pt"></property>
 	</page>
 	<page xml:lang="pt_BR" name="basic" label="Informações básicas" description="Informações gerais do projeto">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nome do projeto:" description="nome do projeto" xml:lang="pt_BR"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nome do projeto:" description="nome do projeto" xml:lang="pt_BR"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="pt_BR"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-Mail:" description="" xml:lang="pt_BR"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versão:" xml:lang="pt_BR"></property>
 	</page>
 	<page xml:lang="ro" name="basic" label="Informații de bază" description="Informație generală despre proiect">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Nume proiect:" description="nume proiect" xml:lang="ro"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Nume proiect:" description="nume proiect" xml:lang="ro"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="ro"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adresă email:" description="" xml:lang="ro"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versiune:" xml:lang="ro"></property>
 	</page>
 	<page xml:lang="ru" name="basic" label="Основная информация" description="Основная информация о проекте">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Название проекта:" description="Название проекта" xml:lang="ru"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Название проекта:" description="Название проекта" xml:lang="ru"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Автор:" description="" xml:lang="ru"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Адрес эл. почты:" description="" xml:lang="ru"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Версия:" xml:lang="ru"></property>
 	</page>
 	<page xml:lang="rw" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="rw"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="rw"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Umwanditsi:" description="" xml:lang="rw"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="rw"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Verisiyo:" xml:lang="rw"></property>
 	</page>
 	<page xml:lang="si" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="si"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="si"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="කතෘ:" description="" xml:lang="si"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="si"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="වෙළුම:" xml:lang="si"></property>
 	</page>
 	<page xml:lang="sk" name="basic" label="Základné informácie" description="Základné informácie o projekte">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Názov projektu:" description="názov projektu" xml:lang="sk"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Názov projektu:" description="názov projektu" xml:lang="sk"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="sk"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Emailová adresa:" description="" xml:lang="sk"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Verzia:" xml:lang="sk"></property>
 	</page>
 	<page xml:lang="sl" name="basic" label="Osnovne podrobnosti" description="Splošne podrobnosti projekta">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Ime projekta:" description="ime projekta" xml:lang="sl"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Ime projekta:" description="ime projekta" xml:lang="sl"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Avtor:" description="" xml:lang="sl"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Elektronski naslov:" description="" xml:lang="sl"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Različica:" xml:lang="sl"></property>
 	</page>
 	<page xml:lang="sq" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="sq"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="sq"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autori:" description="" xml:lang="sq"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="sq"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Versioni:" xml:lang="sq"></property>
 	</page>
 	<page xml:lang="sr" name="basic" label="Основне информације" description="Информације о пројекту">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Назив пројекта:" description="назив пројекта" xml:lang="sr"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Назив пројекта:" description="назив пројекта" xml:lang="sr"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Аутор:" description="" xml:lang="sr"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Адреса ел. поште:" description="" xml:lang="sr"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Издање:" xml:lang="sr"></property>
 	</page>
 	<page xml:lang="sr@latin" name="basic" label="Osnovne informacije" description="Informacije o projektu">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Naziv projekta:" description="naziv projekta" xml:lang="sr@latin"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Naziv projekta:" description="naziv projekta" xml:lang="sr@latin"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Autor:" description="" xml:lang="sr@latin"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Adresa el. pošte:" description="" xml:lang="sr@latin"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Izdanje:" xml:lang="sr@latin"></property>
 	</page>
 	<page xml:lang="sv" name="basic" label="Grundläggande information" description="Allmän projektinformation">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projektnamn:" description="projektnamn" xml:lang="sv"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projektnamn:" description="projektnamn" xml:lang="sv"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Författare:" description="" xml:lang="sv"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-postadress:" description="" xml:lang="sv"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:" xml:lang="sv"></property>
 	</page>
 	<page xml:lang="te" name="basic" label="ప్రాథమిక సమాచారం" description="సాధారణ ప్రాజెక్టు సమాచారం">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="ప్రాజెక్టు పేరు:" description="ప్రాజెక్టు పేరు" xml:lang="te"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="ప్రాజెక్టు పేరు:" description="ప్రాజెక్టు పేరు" xml:lang="te"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="మూలకర్త:" description="" xml:lang="te"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ఇమెయిల్ అడ్రస్:" description="" xml:lang="te"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="వర్షన్:" xml:lang="te"></property>
 	</page>
 	<page xml:lang="tg" name="basic" label="Basic information" description="General Project Information">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Project Name:" description="project name" xml:lang="tg"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Project Name:" description="project name" xml:lang="tg"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Author:" description="" xml:lang="tg"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Email address:" description="" xml:lang="tg"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Version:" xml:lang="tg"></property>
 	</page>
 	<page xml:lang="th" name="basic" label="ข้อมูลเบื้องต้น" description="ข้อมูลทั่วไปของโครงการ">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="ชื่อโครงการ:" description="ชื่อโครงการ" xml:lang="th"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="ชื่อโครงการ:" description="ชื่อโครงการ" xml:lang="th"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="ผู้เขียน:" description="" xml:lang="th"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ที่อยู่อีเมล:" description="" xml:lang="th"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="รุ่น:" xml:lang="th"></property>
 	</page>
 	<page xml:lang="tr" name="basic" label="Temel bilgi" description="Genel Proje Bilgisi">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Projenin Adı:" description="proje ismi" xml:lang="tr"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Projenin Adı:" description="proje ismi" xml:lang="tr"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Yazar:" description="" xml:lang="tr"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="E-posta adresi:" description="" xml:lang="tr"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Sürüm:" xml:lang="tr"></property>
 	</page>
 	<page xml:lang="ug" name="basic" label="ئاساسىي ئۇچۇر" description="قۇرۇلۇشنىڭ ئومۇمىي ئۇچۇرلىرى">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="قۇرۇلۇش ئاتى:" description="قۇرۇلۇش ئاتى" xml:lang="ug"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="قۇرۇلۇش ئاتى:" description="قۇرۇلۇش ئاتى" xml:lang="ug"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="ئاپتور:" description="" xml:lang="ug"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="ئېلخەت مەنزىل:" description="" xml:lang="ug"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="نەشرى:" xml:lang="ug"></property>
 	</page>
 	<page xml:lang="uk" name="basic" label="Основна інформація" description="Інформація про проект">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Назва проекту:" description="Назва проекту" xml:lang="uk"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Назва проекту:" description="Назва проекту" xml:lang="uk"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Автор:" description="" xml:lang="uk"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Адреса ел. пошти:" description="" xml:lang="uk"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Версія:" xml:lang="uk"></property>
 	</page>
 	<page xml:lang="vi" name="basic" label="Thông tin cơ bản" description="Thông tin dự án chung">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="Tên dự án:" description="tên dự án" xml:lang="vi"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="Tên dự án:" description="tên dự án" xml:lang="vi"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="Tác giả:" description="" xml:lang="vi"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="Địa chỉ thư :" description="" xml:lang="vi"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="Phiên bản:" xml:lang="vi"></property>
 	</page>
 	<page xml:lang="zh_CN" name="basic" label="基本信息" description="项目常规信息">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="项目名称：" description="项目名称" xml:lang="zh_CN"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="项目名称：" description="项目名称" xml:lang="zh_CN"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="作者：" description="" xml:lang="zh_CN"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="电子邮件地址：" description="" xml:lang="zh_CN"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="版本：" xml:lang="zh_CN"></property>
 	</page>
 	<page xml:lang="zh_HK" name="basic" label="基本資訊" description="一般專案資訊">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="專案名稱：" description="專案名稱" xml:lang="zh_HK"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="專案名稱：" description="專案名稱" xml:lang="zh_HK"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="作者：" description="" xml:lang="zh_HK"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="電子郵件位址：" description="" xml:lang="zh_HK"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="版本:" xml:lang="zh_HK"></property>
 	</page>
 	<page xml:lang="zh_TW" name="basic" label="基本資訊" description="一般專案資訊">
-		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="gtk-foobar" label="專案名稱：" description="專案名稱" xml:lang="zh_TW"></property>
+		<property type="string" summary="yes" restriction="filename" name="Name" mandatory="yes" default="sdl-foobar" label="專案名稱：" description="專案名稱" xml:lang="zh_TW"></property>
 		<property type="string" name="Author" mandatory="yes" default="[+UserName+]" label="作者：" description="" xml:lang="zh_TW"></property>
 		<property type="string" name="Email" mandatory="no" default="[+EmailAddress+]" label="電子郵件位址：" description="" xml:lang="zh_TW"></property>
 		<property type="string" name="Version" mandatory="yes" default="0.1" label="版本:" xml:lang="zh_TW"></property>
@@ -527,7 +527,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime"></property>
@@ -542,7 +542,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="أضف دعم المكتبات المتشاركة:" description="أضف دعم المكتبات المتشاركة في مشروعك" xml:lang="ar"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="ضبط الحزمات الخارجية:" description="استخدم pkg-config لإضافة دعم المكتبات من حزمات أخرى" xml:lang="ar"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="استخدم GtkBuilder لواجهة المستخدم:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="ar"></property>
@@ -557,7 +557,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Amestar sofitu pa biblioteques compartíes:" description="Amiesta sofitu pa construyir biblioteques compartíes nel to proyeutu" xml:lang="ast"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configurar paquetes esternos:" description="Usar pkg-config p&apos;amestar sofitu pa biblioteques dende otros paquetes" xml:lang="ast"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Usar GtkBuilder pa la interface del usuariu:" description="Usar GtkBuilder pa crear la interface d&apos;usuariu d&apos;una forma gráfica y cargala dende un XML nel intre d&apos;execución" xml:lang="ast"></property>
@@ -572,7 +572,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="az"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="az"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="az"></property>
@@ -587,7 +587,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Dadaj padtrymku supolnych biblijatek:" description="Dadaje dla prajektu padtrymku zbudavańnia supolnych biblijatek" xml:lang="be@latin"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Skanfihuruj vonkavyja pakunki:" description="Užyj pkg-config, kab dadavać padtrymku biblijatek ź inšych pakunkaŭ" xml:lang="be@latin"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="be@latin"></property>
@@ -602,7 +602,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Добавяне на поддръжка за споделени библиотеки:" description="Добавя поддръжка за компилиране на споделени библиотеки" xml:lang="bg"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Конфигуриране на външни пакети:" description="Използване на pkg-config за добавяне на библиотеки от други пакети" xml:lang="bg"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Използване на GtkBuilder за потребителски интерфейс:" description="Използване на GtkBuilder за графично създаване на потребителски интерфейс, който да се зареди от файлове с xml по време на работа на програмата" xml:lang="bg"></property>
@@ -617,7 +617,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Afegeix compatibilitat per a les biblioteques compartides:" description="Afegeix compatibilitat per muntar biblioteques compartides en el projecte" xml:lang="ca"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configura els paquets externs:" description="Utilitzeu el pkg-config per afegir compatibilitat per a biblioteques des d&apos;altres paquets" xml:lang="ca"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Utilitza el GtkBuilder per a la interfície d&apos;usuari:" description="Utilitza el GtkBuilder per crear la interfície d&apos;usuari de manera gràfica i carregar-la des de fitxers XML en temps d&apos;execució" xml:lang="ca"></property>
@@ -632,7 +632,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Afig compatibilitat per a les biblioteques compartides:" description="Afig compatibilitat per muntar biblioteques compartides en el projecte" xml:lang="ca@valencia"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configura els paquets externs:" description="Utilitzeu el pkg-config per afegir compatibilitat per a biblioteques des d&apos;altres paquets" xml:lang="ca@valencia"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Utilitza el GtkBuilder per a la interfície d&apos;usuari:" description="Utilitza el GtkBuilder per crear la interfície d&apos;usuari de manera gràfica i carregar-la des de fitxers XML en temps d&apos;execució" xml:lang="ca@valencia"></property>
@@ -647,7 +647,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Přidat podporu pro sdílené knihovny:" description="Přidává do projektu podporu sestavování sdílených knihoven" xml:lang="cs"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Nastavit externí balíčky:" description="Použít pkg-config k přidání podpory knihoven z dalších balíčků" xml:lang="cs"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Použít GtkBuilder k tvorbě uživatelského prostředí:" description="Použít GtkBuilder k tvorbě uživatelského rozhraní, které bude uloženo do souboru XML a za běhu načteno" xml:lang="cs"></property>
@@ -662,7 +662,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Tilføj understøttelse for delte biblioteker:" description="Tilføjer understøttelse for bygning af delte biblioteker i dit projekt" xml:lang="da"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfigurér eksterne pakker:" description="Brug pkg-config til at tilføje biblioteksunderstøttelse fra andre pakker" xml:lang="da"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Brug GtkBuilder til brugergrænsefladen:" description="Brug GtkBuilder til at oprette brugergrænsefladen grafisk, og indlæs den fra xml-filer når programmet kører" xml:lang="da"></property>
@@ -677,7 +677,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Unterstützung für gemeinsam verwendete Bibliotheken hinzufügen:" description="Fügt Unterstützung für das Erstellen von gemeinsamen Bibliotheken zum Projekt hinzu" xml:lang="de"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Externe Pakete konfigurieren:" description="»pkg-config« für die Unterstützung von Bibliotheken aus anderen Paketen verwenden" xml:lang="de"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="GtkBuilder für die Benutzeroberfläche verwenden" description="GtkBuilder zur Erstellung der Benutzeroberfläche verwenden und diese aus XML-Dateien zur Laufzeit laden" xml:lang="de"></property>
@@ -692,7 +692,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="རུབ་སྤྱོད་འབད་ཡོད་པའི་རྒྱབ་སྐྱོར་ཁ་སྐོང་འབད།" description="Adds support for building shared libraries in your project" xml:lang="dz"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="ཕྱིའི་ཐུམ་སྒྲིལ་ཚུ་རིམ་སྒྲིག་འབད།" description="Use pkg-config to add library support from other packages" xml:lang="dz"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="dz"></property>
@@ -707,7 +707,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Προσθήκη υποστήριξης κοινόχρηστης βιβλιοθήκης:" description="Προσθέτει υποστήριξη για δόμηση κοινόχρηστων βιβλιοθηκών στο έργο σας" xml:lang="el"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Ρύθμιση εξωτερικών πακέτων:" description="Χρήση του pkg-config για προσθήκη υποστήριξης βιβλιοθήκης από άλλα πακέτα" xml:lang="el"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Χρήση GtkBuilder για τη διεπαφή χρήστη:" description="Χρήση GtkBuilder για δημιουργία της διεπαφής χρήστη με γραφικό τρόπο και φόρτωσή του από αρχεία xml στο χρόνο εκτέλεσης" xml:lang="el"></property>
@@ -722,7 +722,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="𐑨𐑛 𐑖𐑺𐑛 𐑤𐑲𐑚𐑮𐑼𐑦 𐑕𐑩𐑐𐑹𐑑:" description="𐑨𐑛𐑟 𐑕𐑩𐑐𐑹𐑑 𐑓𐑹 𐑚𐑦𐑤𐑛𐑦𐑙 𐑖𐑺𐑛 𐑤𐑲𐑚𐑮𐑼𐑦𐑟 𐑦𐑯 𐑿𐑼 𐑐𐑮𐑩𐑡𐑧𐑒𐑑" xml:lang="en@shaw"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="𐑒𐑩𐑯𐑓𐑦𐑜𐑘𐑼 𐑦𐑒𐑕𐑑𐑻𐑯𐑩𐑤 𐑐𐑨𐑒𐑦𐑡𐑩𐑟:" description="Use pkg-config to add library support from other packages" xml:lang="en@shaw"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="en@shaw"></property>
@@ -737,7 +737,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="en_CA"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="en_CA"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="en_CA"></property>
@@ -752,7 +752,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="en_GB"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="en_GB"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="en_GB"></property>
@@ -767,7 +767,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="eo"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="eo"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="eo"></property>
@@ -782,7 +782,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Añadir soporte para bibliotecas compartidas:" description="Añade soporte para construir bibliotecas compartidas en su proyecto" xml:lang="es"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configurar paquetes externos:" description="Usar pkg-config para añadir soporte para bibliotecas desde otros paquetes" xml:lang="es"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Usar GtkBuilder para la interfaz del usuario:" description="Usar GtkBuilder para crear la interfaz de usuario de una forma gráfica y cargarla desde un XML en el momento de ejecución" xml:lang="es"></property>
@@ -797,7 +797,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Gehitu liburutegi partekatuak onartzea:" description="Proiektuan liburutegi partekatuak konpilatu ahal izatea gehitzen du" xml:lang="eu"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfiguratu kanpoko paketeak:" description="Beste pakete batzuetako liburutegiak gehitzeko erabili pkg-config" xml:lang="eu"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="eu"></property>
@@ -812,7 +812,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Lisää jaettujen tiedostojen tuki:" description="Lisää projektiin tuen jaettujen kirjastojen kääntämiselle" xml:lang="fi"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Määrittele ulkoiset paketit:" description="Käytä pkg-config:iaa muiden pakettien kirjastojen lisäämiseen" xml:lang="fi"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="fi"></property>
@@ -827,7 +827,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Ajouter la prise en charge des bibliothèques partagées :" description="Ajoute la prise en charge de la compilation des bibliothèques partagées au projet" xml:lang="fr"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configuration des paquets externes :" description="Utiliser pkg-config pour ajouter la prise en charge de bibliothèques issues d&apos;autres paquets" xml:lang="fr"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Utiliser GtkBuilder pour l&apos;interface utilisateur :" description="Utiliser GtkBuilder pour créer l&apos;interface utilisateur de manière graphique et la charger à partir de fichiers xml à l&apos;exécution" xml:lang="fr"></property>
@@ -842,7 +842,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="ga"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="ga"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="ga"></property>
@@ -857,7 +857,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Engadir a compatibilidade de biblioteca compartida:" description="Engade a compatibilidade para construír bibliotecas compartidas no seu proxecto" xml:lang="gl"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configurar os paquetes externos:" description="Usar pkg-config para engadir a compatibilidade de biblioteca doutros paquetes" xml:lang="gl"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Usar GtkBuilder para a interface de usuario:" description="Usar GtkBuilder para crear a interface de usuario dunha forma gráfica e cargala desde ficheiros xml en tempo de execución" xml:lang="gl"></property>
@@ -872,7 +872,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="gu"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="gu"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="gu"></property>
@@ -887,7 +887,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="הוסף תמיכה בספריות משותפות:" description="הוסף לפרויקט תמיכה בבניית ספריות משותפות" xml:lang="he"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="he"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="he"></property>
@@ -902,7 +902,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="hi"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="hi"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="hi"></property>
@@ -917,7 +917,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="hr"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="hr"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="hr"></property>
@@ -932,7 +932,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Osztott programkönyvtárak támogatása:" description="Támogatást ad osztott programkönyvtárak felépítéséhez a projektben" xml:lang="hu"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Külső csomagok beállítása:" description="A pkg-config segítségével más csomagokból származó támogató programkönyvtárakat vehet fel" xml:lang="hu"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="GtkBuilder használata a felülethez:" description="GtkBuilder használata a felhasználói felület grafikus létrehozásához, és betöltéséhez XML fájlokból futás közben" xml:lang="hu"></property>
@@ -947,7 +947,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Ավելացնել համօգտագործվող գրադարանի աջակցում․" description="Ձեր նախագծում ավելացնում է համօգտագործվող գրադարանների կազմարկման աջակցում" xml:lang="hy"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Կոնֆիգուրացնել արտաքին փաթեթները․" description="Օգտագործել pkg-config այլ փաթեթներից գրադարանի աջակցություն ավելացնելու համար " xml:lang="hy"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="hy"></property>
@@ -962,7 +962,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Tambahkan dukungan pustaka bersama:" description="Tambahkan dukungan pembangunan pustaka yang dipakai bersama ke projek" xml:lang="id"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Atur paket eksternal:" description="Gunakan pkg-config untuk menambah dukungan pustaka dari paket lain" xml:lang="id"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Gunakan GtkBuilder untuk antar muka pengguna:" description="Pakai GtkBuilder untuk membuat antar muka pengguna secara grafis dan muat itu dari berkas xml saat runtime" xml:lang="id"></property>
@@ -977,7 +977,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Aggiungi il supporto alle librerie condivise:" description="Aggiunge il supporto per generare librerie condivise nel proprio progetto" xml:lang="it"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configura pacchetti esterni:" description="Utilizzare pkg-config per aggiungere il supporto di librerie contenute in altri pacchetti" xml:lang="it"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Utilizzare GtkBuilder per l&apos;interfaccia utente:" description="Utilizza GtkBuilder per creare un&apos;interfaccia utente in modalità visuale e la carica da dei file xml quando in esecuzione" xml:lang="it"></property>
@@ -992,7 +992,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="共有ライブラリのサポート:" description="プロジェクトの中で共有ライブラリを作成しビルドできるようになります" xml:lang="ja"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="追加でパッケージを指定する:" description="pkg-config を使って他のパッケージのライブラリを追加します" xml:lang="ja"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="ユーザーインターフェースで GtkBuilder を使用します:" description="グラフィカルな方法でユーザーインターフェースを作成するために GtkBuilder を使用し、実行時に xml ファイルからロードする。" xml:lang="ja"></property>
@@ -1007,7 +1007,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="បន្ថែម​ការ​គាំទ្រ​បណ្ណាល័យ​ចែករំលែក ៖" description="បន្ថែម​ការ​គាំទ្រ​សម្រាប់​ការ​ស្ថាបនា​បណ្ណាល័យ​ចែករំលែក​នៅ​ក្នុង​គម្រោង​របស់​អ្នក" xml:lang="km"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="កំណត់​រចនាសម្ព័ន្ធ​កញ្ចប់​ខាងក្រៅ ៖" description="ប្រើ pkg-config ដើម្បី​បន្ថែម​បណ្ណាល័យ​គាំទ្រ​ពី​កញ្ចប់​ផ្សេង" xml:lang="km"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="ប្រើ GtkBuilder សម្រាប់​ចំណុច​ប្រទាក់​អ្នកប្រើ ៖" description="ប្រើ GtkBuilder ដើម្បី​បង្កើត​ចំណុច​ប្រទាក់​អ្នកប្រើ​នៅ​ក្នុង​មធ្យោបាយ​ក្រាហ្វិក និង​ផ្ទុក​វា​ចេញពី​ឯកសារ xml នៅ​ពេល​ដំណើការ" xml:lang="km"></property>
@@ -1022,7 +1022,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="ಹಂಚಿಕಾ ಲೈಬ್ರರಿ ಬೆಂಬಲವನ್ನು ಸೇರಿಸು:" description="ನಿಮ್ಮ ಪರಿಯೋಜನೆಯಲ್ಲಿ ಹಂಚಿಕಾ ಲೈಬ್ರರಿಯನ್ನು ನಿರ್ಮಿಸುವಲ್ಲಿ ಬೆಂಬಲವನ್ನು ಒದಗಿಸುತ್ತದೆ" xml:lang="kn"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="ಬಾಹ್ಯ ಪ್ಯಾಕೇಜುಗಳನ್ನು ಸಂರಚಿಸು:" description="ಇತರೆ ಪ್ಯಾಕೇಜುಗಳಿಂದ ಲೈಬ್ರರಿ ಬೆಂಬಲವನ್ನು ಸೇರಿಸಲು pkg-config ಅನ್ನು ಸೇರಿಸು" xml:lang="kn"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="kn"></property>
@@ -1037,7 +1037,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="공유 라이브러리 지원 추가:" description="프로젝트에 공유 라이브러리를 빌드하기 위한 지원을 추가합니다" xml:lang="ko"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure 외부 패키지:" description="다른 패키지에서 라이브러리 지원을 추가 위해 pkg-config 사용" xml:lang="ko"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="사용자 인터페이스에 GtkBuilder 사용:" description="그래픽 수단으로 사용자 인터페이스르 만들려면 GtkBuilder를 사용하고 실행할 때 xml 파일을 불러오십시오" xml:lang="ko"></property>
@@ -1052,7 +1052,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Pridėti bendro naudojimo bibliotekos palaikymą:" description="Prideda bendro naudojimo bibliotekos kūrimo palaikymą į projektą" xml:lang="lt"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfigūruoti išorinius paketus:" description="Naudoti pkg-config kitų paketų bibliotekų palaikymui pridėti" xml:lang="lt"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Naudoti GtkBuilder naudotojo sąsajai:" description="Naudoti GtkBuilder naudotojo sąsajai sukurti grafiniu būdu ir įkelti iš xml failų vykdymo metu" xml:lang="lt"></property>
@@ -1067,7 +1067,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Pievienot koplietoto bibliotēku atbalstu:" description="Pievieno atbalstu koplietoto bibliotēku būvēšanai jūsu projektā" xml:lang="lv"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfigurēt ārējās pakotnes:" description="Izmantojiet pkg-config, lai pievienotu bibliotēku atbalstu no citām pakotnēm" xml:lang="lv"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Izmantojiet GtkBuilder lietotāja saskarnei:" description="Izmantojiet GtkBuilder, lai izveidotu lietotāja saskarni grafiskā veidā un un pēc tam ielādētu to no XML datnēm programmas darbības laikā." xml:lang="lv"></property>
@@ -1082,7 +1082,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="mai"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="mai"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="mai"></property>
@@ -1097,7 +1097,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Додај поддршка за споделени бибилиотеки:" description="Додава поддршка за споделени библиотеки во Вашиот проект" xml:lang="mk"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Конфигурирај надворешни пакети:" description="Користи pkg-config за додавање на поддршка за другите пакети" xml:lang="mk"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="mk"></property>
@@ -1112,7 +1112,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="പങ്കാളിത്ത ഗ്രന്ഥാലയ പിന്തുണ കൂട്ടിച്ചേര്‍ക്കുക:" description="നിങ്ങളുടെ പദ്ധതിയില്‍ പങ്കാളിത്ത ഗ്രന്ഥാലയങ്ങള്‍ നിര്മ്മിക്കാനുള്ള പിന്തുണ കൂട്ടിച്ചേര്ക്കുന്നു" xml:lang="ml"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="ബാഹ്യ‌മായ പൊതിക്കെട്ടുകള്‍ ക്രമീകരിക്കുക:" description="Use pkg-config to add library support from other packages" xml:lang="ml"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="ml"></property>
@@ -1127,7 +1127,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="सहभागीय लायब्ररी समर्थन जोडा:" description="प्रकल्प अंतर्गत सहभागीय लायब्ररी बांधण्याकरीता समर्थन जोडा" xml:lang="mr"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="बाहेरील संकुल संयोजीत करा:" description="इतर संकुल पासून लायब्ररी समर्थन जोडण्याकरीता pkg-config चा वापर करा" xml:lang="mr"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="mr"></property>
@@ -1142,7 +1142,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="ms"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="ms"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="ms"></property>
@@ -1157,7 +1157,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Legg til støtte for delte biblioteker:" description="Adds support for building shared libraries in your project" xml:lang="nb"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfigurer eksterne pakker:" description="Bruk pkg-config for å legge til bibliotekstøtte fra andre pakker" xml:lang="nb"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Bruk GtkBuilder for brukergrensesnittfil:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="nb"></property>
@@ -1172,7 +1172,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="साझेदारी लाइब्रेरी समर्थन थप्नुहोस्:" description="Adds support for building shared libraries in your project" xml:lang="ne"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="बाह्य प्याकेज कन्फिगर गर्नुहोस्:" description="Use pkg-config to add library support from other packages" xml:lang="ne"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="ne"></property>
@@ -1187,7 +1187,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="nl"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Externe pakketten configureren:" description="Use pkg-config to add library support from other packages" xml:lang="nl"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="nl"></property>
@@ -1202,7 +1202,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="oc"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="oc"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="oc"></property>
@@ -1217,7 +1217,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="or"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="or"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="or"></property>
@@ -1232,7 +1232,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="pa"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="pa"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="pa"></property>
@@ -1247,7 +1247,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Obsługa bibliotek współdzielonych:" description="Dodaje do projektu obsługę budowania bibliotek współdzielonych" xml:lang="pl"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfiguracja pakietów zewnętrznych:" description="Użycie biblioteki pkg-config, aby dodać obsługę bibliotek z innych pakietów" xml:lang="pl"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Użycie biblioteki GtkBuilder dla interfejsu użytkownika:" description="Używa biblioteki GtkBuilder do utworzenia interfejsu graficznego w sposób graficzny i wczytuje go z plików XML podczas uruchamiania" xml:lang="pl"></property>
@@ -1262,7 +1262,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Adicionar suporte para biblioteca partilhada:" description="Adiciona suporte para poder compilar bibliotecas partilhadas no seu projeto" xml:lang="pt"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configurar pacotes externos:" description="Utilizar o pkg-config para adicionar suporte de bibliotecas de outros pacotes" xml:lang="pt"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Utilizar o GtkBuilder para o interface de utilizador:" description="Utilizar o GtkBuilder para criar o interface de utilizador de uma forma gráfica e para o ler a partir de ficheiros xml durante a execução" xml:lang="pt"></property>
@@ -1277,7 +1277,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Adicionar suporte a bibliotecas compartilhadas:" description="Adiciona o suporte à construção de bibliotecas compartilhadas em seu projeto" xml:lang="pt_BR"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configurar pacotes externos:" description="Usar pkg-config para adicionar suporte a bibliotecas de outros pacotes" xml:lang="pt_BR"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Usar GtkBuilder para a interface do usuário." description="Usa o GtkBuilder para criar a interface do usuário de uma forma gráfica e carregue-a de arquivos xml em tempo de execução" xml:lang="pt_BR"></property>
@@ -1292,7 +1292,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Adaugă suport pentru biblioteci partajate:" description="Adaugă suport pentru construirea de biblioteci partajate în proiectul dumneavoastră." xml:lang="ro"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configurează pachete externe:" description="Utilizați pkg-config pentru a adăuga suport de biblioteci din alte pachete" xml:lang="ro"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Folosește GtkBuilder pentru interfața utilizator:" description="Folosește GtkBuilder pentru a crea interfața utilizator într-un mod grafic și încărca-l din fișiere xml în timpul executării" xml:lang="ro"></property>
@@ -1307,7 +1307,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Поддержка разделяемых библиотек:" description="Добавить возможность сборки в проекте разделяемых библиотек" xml:lang="ru"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Настроить внешние пакеты:" description="Использовать pkg-config для использования внешних библиотек" xml:lang="ru"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Использовать GtkBuilder для пользовательского интерфейса:" description="Использовать GtkBuilder для создания пользовательского интерфейса и его загрузки из файлов XML" xml:lang="ru"></property>
@@ -1322,7 +1322,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="rw"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="rw"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="rw"></property>
@@ -1337,7 +1337,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="si"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="si"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="si"></property>
@@ -1352,7 +1352,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Pridať podporu pre zdieľané knižnice:" description="Pridá do vášho projektu podporu zostavovania zdieľaných knižníc" xml:lang="sk"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfigurovať externé balíky:" description="Použije pkg-config na pridávanie knižníc z iných balíkov" xml:lang="sk"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Použiť GtkBuilder na tvorbu používateľského rozhrania:" description="Použije grafický nástroj GtkBuilder na tvorbu použivateľského rozhrania, ktoré bude po spustení načítané z xml súborov." xml:lang="sk"></property>
@@ -1367,7 +1367,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Dodaj podporo souporabe knjižnic:" description="Doda podporo za izgradnjo deljenih knjižnic projekta" xml:lang="sl"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Nastavitev zunanjih paketov:" description="Uporabi pkg-config za dodajanje knjižnične podpore drugih paketov" xml:lang="sl"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Za uporabniški vmesnik uporabi GtkBuilder:" description="Uporabite GtkBuilder za ustvarjanje grafičnega uporabniškega vmesnika in za nalaganje preko datotek xml med delovanjem." xml:lang="sl"></property>
@@ -1382,7 +1382,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="sq"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="sq"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="sq"></property>
@@ -1397,7 +1397,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Додај подршку дељене библиотеке:" description="Додајте подршку за изградњу дељених библиотека у ваш пројекат" xml:lang="sr"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Подеси спољне пакете:" description="Користите „pkg-config“ да додате подршку библиотека из других пакета" xml:lang="sr"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Користите Гтк Градњу за графичко сучеље:" description="Користите Гтк Градњу да направите корисничко сучеље на графички начин и да га учитате из хмл датотека за време извршавања" xml:lang="sr"></property>
@@ -1412,7 +1412,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Dodaj podršku deljene biblioteke:" description="Dodajte podršku za izgradnju deljenih biblioteka u vaš projekat" xml:lang="sr@latin"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Podesi spoljne pakete:" description="Koristite „pkg-config“ da dodate podršku biblioteka iz drugih paketa" xml:lang="sr@latin"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Koristite Gtk Gradnju za grafičko sučelje:" description="Koristite Gtk Gradnju da napravite korisničko sučelje na grafički način i da ga učitate iz hml datoteka za vreme izvršavanja" xml:lang="sr@latin"></property>
@@ -1427,7 +1427,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Lägg till stöd för delade bibliotek:" description="Lägger till stöd för att bygga delade bibliotek i ditt projekt" xml:lang="sv"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Konfigurera externa paket:" description="Använd pkg-config för att lägga till biblioteksstöd från andra paket" xml:lang="sv"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Använd GtkBuilder för användargränssnitt:" description="Använd GtkBuilder för att skapa användargränssnittet på ett grafiskt sätt och läsa in det från xml-filer vid körtid" xml:lang="sv"></property>
@@ -1442,10 +1442,10 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="భాగస్వామ్య లైబ్రరీ మద్దతు జోడించండి:" description="మీ ప్రాజెక్ట్ లో భాగస్వామ్య లైబ్రరీలను నిర్మించటానికి మద్దతును జతచేస్తుంది" xml:lang="te"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="ఇతర ప్యాకేజీలు నుండి లైబ్రరీ మద్దతును జతచేయుటకు pkg-config ఉపయోగించండి" xml:lang="te"></property>
-		<property type="boolean" name="HaveBuilderUI" default="1" label="వినియోగదారి యింటర్ఫేస్ను కొరకు GTKబిల్డర్ ఉపయోగించండి:" description="గ్రాఫికల్ విధంగా వినియోగదారునిఇంటర్ఫేస్ సృష్టించడం మరియు నడుస్తున్న సమయంలో xml ఫైళ్ళు నుండి లోడు gtkబిల్డర్ ఉపయోగించండి" xml:lang="te"></property>
+		<property type="boolean" name="HaveBuilderUI" default="1" label="వినియోగదారి యింటర్ఫేస్ను కొరకు GTKబిల్డర్ ఉపయోగించండి:" description="గ్రాఫికల్ విధంగా వినియోగదారునిఇంటర్ఫేస్ సృష్టించడం మరియు నడుస్తున్న సమయంలో xml ఫైళ్ళు నుండి లోడు sdlబిల్డర్ ఉపయోగించండి" xml:lang="te"></property>
 		<property type="boolean" name="HaveWindowsSupport" default="0" label="Add Windows support:" description="Adds support for building on Windows platforms" xml:lang="te"></property>
 	</page>
 	<page xml:lang="tg" name="options" label="Project options" description="Options for project build system">
@@ -1457,7 +1457,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Add shared library support:" description="Adds support for building shared libraries in your project" xml:lang="tg"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Configure external packages:" description="Use pkg-config to add library support from other packages" xml:lang="tg"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="tg"></property>
@@ -1472,7 +1472,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="เพิ่มการรองรับไลบรารีใช้ร่วม:" description="เพิ่มการรองรับการสร้างไลบรารีใช้ร่วมในโครงการของคุณ" xml:lang="th"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="ตั้งค่าแพกเกจภายนอก:" description="ใช้ pkg-config เพิ่มการรองรับไลบรารีจากแพกเกจอื่น" xml:lang="th"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="ใช้ GtkBuilder สำหรับส่วนติดต่อผู้ใช้:" description="ใช้ GtkBuilder สร้างส่วนติดต่อผู้ใช้ด้วยวิธีแบบกราฟิก และโหลดจากแฟ้ม XML ขณะทำงาน" xml:lang="th"></property>
@@ -1487,7 +1487,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Paylaşılan kütüphane desteği ekle:" description="Projenize paylaşılan kütüphane inşa etme desteğini ekler" xml:lang="tr"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Harici paketleri yapılandır:" description="Diğer paketlerden kütüphane desteği eklerken pkg-config kullan" xml:lang="tr"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="tr"></property>
@@ -1502,7 +1502,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="ھەمبەھىر فۇنكسىيە قوللاشنى قوش:" description="قۇرۇلۇشىڭىزغا ھەمبەھىر فۇنكسىيە ئامبىرىنى ياسىيالايدىغان ئىقتىدارنى قوشىدۇ" xml:lang="ug"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="سىرتقى بوغچىلارنى سەپلەش:" description="باشقا يۇمشاق دېتال بوغچىسىدىن ئامبار قوللاشنى قوشۇش ئۈچۈن pkg-config ئىشلىتىدۇ" xml:lang="ug"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="كۆرۈنمەيۈزگە GtkBuilder ئىشلەت:" description="GtkBuilder ئىشلىتىپ كۆرۈنمە يۈزنى گرافىكىلىق قىلىشقا بولىدۇ ھەم ئىجرا بولۇۋاتقاندا ئۇنى xml ھۆججىتىدىن ئوقۇيدۇ" xml:lang="ug"></property>
@@ -1517,7 +1517,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Підтримка спільних бібліотек:" description="Додати можливість збирання спільних бібліотек" xml:lang="uk"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Налаштувати зовнішні пакети:" description="Використовувати pkg-config для використання зовнішніх бібліотек" xml:lang="uk"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="uk"></property>
@@ -1532,7 +1532,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="Thêm hỗ trợ thư viện dùng chung:" description="Thêm hỗ trợ để xây dựng thư viện dùng chung trong dự án" xml:lang="vi"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="Cấu hình gói bên ngoài:" description="Dùng pkg-config để thêm hỗ trợ thư viện từ gói khác" xml:lang="vi"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="Use GtkBuilder for user interface:" description="Use GtkBuilder to create the user-interface in a graphical way and load it from xml files at runtime" xml:lang="vi"></property>
@@ -1547,7 +1547,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="添加共享库支持：" description="在您的项目中添加构建共享库的支持" xml:lang="zh_CN"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="配置外部包：" description="使用 pkg-config 以从其它软件包中添加库支持" xml:lang="zh_CN"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="使用 GtkBuilder 制作用户界面：" description="使用 GtkBuilder 以视图方式创建用户界面后在运行时加载 xml 文件" xml:lang="zh_CN"></property>
@@ -1562,7 +1562,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="加入共享程式庫支援：" description="在你的專案中加入編譯共享程式庫的支援" xml:lang="zh_HK"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="設定外部套件：" description="使用 pkg-config 從其他套件加入程式庫的支援" xml:lang="zh_HK"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="使用 GtkBuilder 做使用者介面：" description="使用 GtkBuilder 以圖形化的方式建立使用者介面並在執行時間從 xml 檔案載入它" xml:lang="zh_HK"></property>
@@ -1577,7 +1577,7 @@
 		<property type="hidden" name="NameCLower" default='[+(string->c-name! (string-substitute (string-downcase (get "Name")) " " "_"))+]'/>
 		<property type="hidden" name="NameHLower" default='[+(string-substitute (string->c-name! (string-downcase (get "Name"))) " " "-")+]'/>
 		<property type="hidden" name="HavePackage" default="1"/>
-		<property type="hidden" name="PackageModule1" default="gtk+-3.0"/>
+		<property type="hidden" name="PackageModule1" default="libsdl"/>
 		<property type="boolean" name="HaveSharedlib" default="1" label="加入共享程式庫支援：" description="在您的專案中加入編譯共享程式庫的支援" xml:lang="zh_TW"></property>
 		<property type="boolean" name="HavePackageExtra" default="0" label="設定外部套件：" description="使用 pkg-config 從其他套件加入程式庫的支援" xml:lang="zh_TW"></property>
 		<property type="boolean" name="HaveBuilderUI" default="1" label="使用 GtkBuilder 做使用者介面：" description="使用 GtkBuilder 以圖形化的方式建立使用者介面並在執行時間從 xml 檔案載入它" xml:lang="zh_TW"></property>
@@ -1810,7 +1810,7 @@
 			<file source="autogen.sh" executable="yes"/>
 			<file source="project.anjuta" destination="[+NameHLower+].anjuta"/>
 		</directory>
-		<directory source="vala-gtk" destination="[+Destination+]">
+		<directory source="vala-sdl" destination="[+Destination+]">
 			<file source="configure.ac.tpl" destination="configure.ac"/>
 			<directory source="src">
 				<file source="main.vala" destination="[+NameHLower+].vala"/>
